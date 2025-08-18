@@ -1,0 +1,9 @@
+.clase1{
+    background-color: rgb(217, 249, 249);
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px;
+    margin: 30px;
+    padding: 15px
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
